@@ -21,7 +21,7 @@ Example :
 
 My server name - DESKTOP-OJOOSLO\\SQLEXPRESS . At the first start, the database will be automatically created .
 
-
+To view the documentation for swagger , after launch, you need to go to url /swagger/index.html 
 
 Technologies that were used : 
 1. ASP.NET CORE WEB API 
