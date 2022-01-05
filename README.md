@@ -30,6 +30,7 @@ Technologies that were used :
 
 
 Description of technologies:
+
 1.The Web API provides a way to build an ASP.NET application that is specifically tailored to work in the REST (Representation State Transfer) style. The REST architecture assumes the use of the following HTTP request methods or types to communicate with the server: GET , POST , PUT , DELETE
 
 
