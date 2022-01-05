@@ -1,5 +1,8 @@
 A way to start a project.
 
+You will need to download the files, then run TestAkvelon.csproj  , before that you will need to install MsSQL , VisualStudio 2019.
+
+
 For development with this project, we can use various tools. If our working platform is Windows, then we can use the full-featured Visual Studio development environment.
 
 The Visual Studio 2019 installer can be downloaded from https://www.visualstudio.com/downloads/. In this case, it doesn't matter which edition of VS to use - free Community or paid Professional or Enterprise.
