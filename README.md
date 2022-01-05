@@ -31,7 +31,7 @@ Technologies that were used :
 
 Description of technologies:
 
-1.The Web API provides a way to build an ASP.NET application that is specifically tailored to work in the REST (Representation State Transfer) style. The REST architecture assumes the use of the following HTTP request methods or types to communicate with the server: GET , POST , PUT , DELETE
+1.The Web API provides a way to build an ASP.NET application that is specifically tailored to work in the REST (Representation State Transfer) style. The REST architecture assumes the use of the following HTTP request methods or types to communicate with the server: GET , POST , PUT , DELETE.
 
 
 2.The Entity Framework introduces Microsoft's object-relational mapping (ORM) technology for data access. Entity Framework Core allows you to abstract from the database itself and its tables and work with data as objects of a class, regardless of the type of storage. If at the physical level we operate with tables, indexes, primary and foreign keys, but at the conceptual level that Entity Framework offers us, we are already working with objects.
